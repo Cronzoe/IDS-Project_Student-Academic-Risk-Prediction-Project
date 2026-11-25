@@ -20,8 +20,6 @@ Logistic Regression was selected for deployment because maximizing **At Risk Rec
 
 ## Run Locally
 ```bash
-git clone <your-repo-url>
-cd early-academic-risk-predictor
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
